@@ -33,3 +33,10 @@ echo hello bash
 touch questionaire.sh
 touch questionnaire.sh
 ls --color=auto
+rm questionaire.sh
+ls --color=auto
+__vsc_prompt_cmd_original
+./qu
+./ questionnaire.sh
+./\questionnaire.sh
+./questionnaire.sh
