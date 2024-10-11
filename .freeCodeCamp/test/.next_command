@@ -118,3 +118,6 @@ __vsc_prompt_cmd_original
 1 == 0
 0 == 0
 [[ 0 == 0 ]]
+ls --color=auto
+./countdown.sh
+./countdown.sh arg1
