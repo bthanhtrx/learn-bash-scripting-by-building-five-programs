@@ -146,3 +146,5 @@ echo $?
 bad_command
 [[ 10 -ne 511 ]]
 bad_command
+ls --color=auto
+ls --color=auto
