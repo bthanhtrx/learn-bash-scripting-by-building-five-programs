@@ -134,3 +134,5 @@ help [[ expression ]]
 [[ 1 -lt 2 ]]
 echo [[ 1 -lt 2 ]]
 help test
+__vsc_prompt_cmd_original
+./countdown.sh 5
