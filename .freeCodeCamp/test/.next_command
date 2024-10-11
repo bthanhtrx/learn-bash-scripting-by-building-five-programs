@@ -124,3 +124,4 @@ ls --color=auto
 ./countdown.sh arg
 ./countdown.sh arg
 ./countdown.sh arg
+./countdown.sh 4
