@@ -130,3 +130,7 @@ help if
 hlep
 help
 help [[ expression ]]
+[[ 1 > 2 ]]
+[[ 1 -lt 2 ]]
+echo [[ 1 -lt 2 ]]
+help test
