@@ -242,3 +242,4 @@ S =10
 echo $I
 (( I++ ))
 echo $I
+help let
