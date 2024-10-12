@@ -379,3 +379,8 @@ help test
 ./fortune.sh
 ./fortune.sh
 help [[
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+echo [[ hello == hello ]] echo $?
+__vsc_prompt_cmd_original
+[[ "hello" == "hello" ]]
