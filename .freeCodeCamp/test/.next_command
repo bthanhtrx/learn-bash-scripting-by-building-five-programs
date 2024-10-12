@@ -349,3 +349,5 @@ declare -p ARR
 declare -p RANDOM
 __vsc_prompt_cmd_original
 __vsc_prompt_cmd_original
+echo
+./fortune.sh
