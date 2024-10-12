@@ -202,3 +202,4 @@ __vsc_prompt_cmd_original
 ./countdown.sh oeu
 hlep
 help
+./countdown.sh 10
