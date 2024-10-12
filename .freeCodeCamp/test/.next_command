@@ -365,3 +365,5 @@ n=$(( RANDOM % 10 ))
 n=$(( RANDOM % 10 ))
 n=$(( RANDOM % 10 ))
 n= $(( RANDOM % 10 ))
+echo help
+help
