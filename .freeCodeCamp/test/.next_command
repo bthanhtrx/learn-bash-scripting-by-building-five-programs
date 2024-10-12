@@ -216,3 +216,5 @@ sleep 3
 ./countdown.sh 1
 hlep while
 help while
+./countdown.sh 6
+./countdown.sh 5
