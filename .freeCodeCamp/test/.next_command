@@ -218,3 +218,10 @@ hlep while
 help while
 ./countdown.sh 6
 ./countdown.sh 5
+./countdown.sh 2
+./countdown.sh 2
+./countdown.sh 2
+./countdown.sh 2
+./countdown.sh 2
+./countdown.sh 2
+touch bingo.sh
