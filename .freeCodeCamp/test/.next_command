@@ -253,3 +253,4 @@ echo $I
 $(( I + 4 ))
 ech o$(( I + 4 ))
 echo $(( I + 4 ))
+echo $I
