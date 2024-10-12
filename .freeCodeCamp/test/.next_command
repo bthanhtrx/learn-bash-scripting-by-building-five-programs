@@ -225,3 +225,4 @@ help while
 ./countdown.sh 2
 ./countdown.sh 2
 touch bingo.sh
+chmod +x bingo.sh
