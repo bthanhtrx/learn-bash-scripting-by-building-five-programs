@@ -243,3 +243,9 @@ echo $I
 (( I++ ))
 echo $I
 help let
+let
+let i = 10
+let i=10
+echo $i
+(( i += 10 ))
+(( I+= 10 ))
