@@ -191,3 +191,5 @@ __vsc_prompt_cmd_original
 [[ -a bad_file.txt ]]
 [[ -x countdown.sh ]]
 [[ -x countdown.sh ]]
+__vsc_prompt_cmd_original
+help [[ expression ]]
