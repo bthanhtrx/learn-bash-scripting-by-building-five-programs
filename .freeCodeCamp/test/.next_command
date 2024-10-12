@@ -335,3 +335,10 @@ ARR=("a" "b" "c")
 echo $ARR[1]
 __vsc_prompt_cmd_original
 echo ${ARR[1]}
+echo $ARR*
+echo ${ARR}*
+echo $ARR@
+echo $ARR
+echo $*
+echo $@
+echo ${ARR[*]}
