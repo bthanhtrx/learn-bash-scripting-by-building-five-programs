@@ -255,3 +255,4 @@ ech o$(( I + 4 ))
 echo $(( I + 4 ))
 echo $I
 J=$((I -6))
+echo $J
