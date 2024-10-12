@@ -212,3 +212,5 @@ sleep 3
 .lcountdown.sh 3
 ./countdown.sh 3
 ./countdown.sh 3
+./countdown.sh 3
+./countdown.sh 1
