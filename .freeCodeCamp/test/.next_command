@@ -342,3 +342,7 @@ echo $ARR
 echo $*
 echo $@
 echo ${ARR[*]}
+echo ${ARR[@]}
+__vsc_prompt_cmd_original
+declare -p
+declare -p ARR
