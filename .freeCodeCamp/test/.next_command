@@ -351,3 +351,17 @@ __vsc_prompt_cmd_original
 __vsc_prompt_cmd_original
 echo
 ./fortune.sh
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+n= $(( $RANDOM % 10 ))
+n= $(( $RANDOM % 10 ))
+n= $(($RANDOM % 10))
+n= $(( RANDOM % 10 ))
+n=$(( RANDOM % 10 ))
+n=$(( RANDOM % 10 ))
+n=$(( RANDOM % 10 ))
+n=$(( RANDOM % 10 ))
+n=$(( RANDOM % 10 ))
+n=$(( RANDOM % 10 ))
+n= $(( RANDOM % 10 ))
