@@ -240,3 +240,4 @@ echo $RANDOM
 I=0
 S =10
 echo $I
+(( I++ ))
