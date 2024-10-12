@@ -368,3 +368,5 @@ n= $(( RANDOM % 10 ))
 echo help
 help
 help function
+n= $(( RANDOM % 10 ))
+./fortune.sh
