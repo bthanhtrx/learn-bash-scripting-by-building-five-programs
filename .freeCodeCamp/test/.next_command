@@ -374,3 +374,8 @@ n= $(( RANDOM % 10 ))
 help
 help until
 ./fortune.sh
+help let
+help test
+./fortune.sh
+./fortune.sh
+help [[
